@@ -6,8 +6,8 @@ main:
   - title: "Notes"
     url: /notes/
 
-  - title: "Photos"
-    url: /photos/
+#  - title: "Photos"
+#    url: /photos/
 
 #  - title: "Talks"
 #    url: /talks/    
