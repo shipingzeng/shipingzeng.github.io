@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shi-Ping Zeng"
+title                    : "Shi-Ping Zeng's Homepage"
 title_separator          : "-"
-name                     : &name "Shi-Ping Zeng"
-description              : &description "Ph.D at Shanghai Jiao Tong University"
+#name                     : &name "Shi-Ping Zeng"
+#description              : &description "Ph.D at Shanghai Jiao Tong University"
 url                      : https://shipingzeng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "shipingzeng.github.io"
+#repository               : "shipingzeng.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Shi-Ping Zeng"
   avatar           : "profile.png"
-  bio              : "Ph.D at Shanghai Jiao Tong University"
-  location         : "Location"
+  #bio              : "Ph.D at Shanghai Jiao Tong University"
+  #location         : "Location"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :  spzeng@sjtu.edu.cn
+  #email            :  spzeng@sjtu.edu.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "shipingzeng"
+  #github           : "shipingzeng"
   google_plus      :
   keybase          :
   instagram        :
