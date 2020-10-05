@@ -9,11 +9,8 @@
 locale                   : "en-US"
 title                    : "Shi-Ping Zeng's Homepage"
 title_separator          : "-"
-#name                     : &name "Shi-Ping Zeng"
-#description              : &description "Ph.D at Shanghai Jiao Tong University"
 url                      : https://shipingzeng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-#repository               : "shipingzeng.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +77,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shi-Ping Zeng"
+  #name             : "Shi-Ping Zeng"
   avatar           : "profile.png"
   #bio              : "Ph.D at Shanghai Jiao Tong University"
   #location         : "Location"
