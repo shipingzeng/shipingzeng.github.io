@@ -8,5 +8,3 @@ redirect_from:
   - /about.html
 ---
 
-
-This is Ph.D Zeng's home one the web!
