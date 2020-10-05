@@ -12,7 +12,7 @@ Hi, my name is Shi-Ping Zeng and now I am a Ph.D student at Shanghai Jiao Tong U
 
 ## Education
 - 2020.9-now &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Ph.D &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Shanghai Jiao Tong University
-- 2016.9-2020.7 &ensp;&ensp;&ensp; Bachelor &ensp;&ensp;&ensp; Northwest University
+- 2016.9-2020.7 &ensp;&ensp; Bachelor &ensp;&ensp; Northwest University
 
 ## Contact
 - Email: spzeng@sjtu.edu.cn
@@ -20,7 +20,7 @@ Hi, my name is Shi-Ping Zeng and now I am a Ph.D student at Shanghai Jiao Tong U
 - Zhihu: https://www.zhihu.com/people/zeng-shi-ping
 
 ## Teaching Experience
-- 2020.9-2021.1&ensp;&ensp;&ensp; TA &ensp;&ensp;&ensp; College physics experiments
+- 2020.9-2021.1&ensp;&ensp; TA &ensp;&ensp; College physics experiments
 
 ## Awards
 - 2019&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; 1st Prize &ensp;&ensp; The 12th Challenge Cup College Students Extracurricular Academic Science and Technology Competition&ensp;&ensp;&ensp;Shaanxi Province
