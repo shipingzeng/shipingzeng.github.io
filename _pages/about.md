@@ -8,3 +8,17 @@ redirect_from:
   - /about.html
 ---
 
+## Education
+- 2020.9-now      Ph.D       Shanghai Jiao Tong University
+- 2016.9-2020.7   Bachelor   Northwest University
+
+## Contact
+- Email: spzeng@sjtu.edu.cn
+- Address: Tsung-Dao Lee Library 410-01
+
+## Teaching Experience
+- 2020.9-2021.1  TA  College physics experiments
+
+## Awards
+- 2019  1st Prize  The 12th Challenge Cup College Students Extracurricular Academic Science and Technology Competition  Shaanxi Province
+- 2017,18,19  First-class scholarship  Northwest University
