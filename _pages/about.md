@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+Hi, my name is Shi-Ping Zeng and now I am a Ph.D student at Shanghai Jiao Tong University major in particle cosmology.
+
 ## Education
 - 2020.9-now      Ph.D       Shanghai Jiao Tong University
 - 2016.9-2020.7   Bachelor   Northwest University
