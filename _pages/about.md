@@ -23,5 +23,5 @@ Hi, my name is Shi-Ping Zeng and now I am a Ph.D student at Shanghai Jiao Tong U
 - 2020.9-2021.1&ensp;&ensp; TA &ensp;&ensp; College physics experiments
 
 ## Awards
-- 2019&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;1st Prize of The 12th Challenge Cup College&ensp;&ensp;&ensp;Shaanxi Province
+- 2019&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&thinsp;1st Prize of The 12th Challenge Cup College&ensp;&ensp;&ensp;Shaanxi Province
 - 2017,18,19&ensp;&ensp;&ensp;&ensp; First-class scholarship&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Northwest University
