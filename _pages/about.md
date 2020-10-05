@@ -1,5 +1,12 @@
-
-
+---
+permalink: /
+title: " "
+excerpt: " "
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 ## About me
 Hi, my name is Shi-Ping Zeng and now I am a Ph.D student at Shanghai Jiao Tong University major in particle cosmology.
 
