@@ -1,6 +1,6 @@
 ---
 permalink: /photos/
 title: "Photos"
-excerpt: "photography"
+excerpt: "photos"
 author_profile: true
 ---
