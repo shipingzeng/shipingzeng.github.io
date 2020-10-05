@@ -17,7 +17,7 @@ Hi, my name is Shi-Ping Zeng and now I am a Ph.D student at Shanghai Jiao Tong U
 ## Contact
 - Email: spzeng@sjtu.edu.cn
 - Address: Tsung-Dao Lee Library 410-01
-- Zhihu: https://www.zhihu.com/people/zeng-shi-ping
+- Zhihu: ！[https://www.zhihu.com/people/zeng-shi-ping](https://www.zhihu.com/people/zeng-shi-ping)
 
 ## Teaching Experience
 - 2020.9-2021.1&ensp;&ensp; TA &ensp;&ensp; College physics experiments
