@@ -16,7 +16,7 @@ Hi, my name is Shi-Ping Zeng (曾诗平) and now I am a Ph.D student at Shanghai
 
 ## Contact
 - Email: spzeng@sjtu.edu.cn
-- Address: Tsung-Dao Lee Library 410-01, or 612 room of Science Group Building #5
+- Address: Tsung-Dao Lee Library 410-01, or 5-612 of Science Building
 - Zhihu: [https://www.zhihu.com/people/zeng-shi-ping](https://www.zhihu.com/people/zeng-shi-ping)
 
 ## Teaching Experience
