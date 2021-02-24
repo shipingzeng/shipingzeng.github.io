@@ -20,7 +20,7 @@ Hi, my name is Shi-Ping Zeng (曾诗平) and now I am a Ph.D student at Shanghai
 - Zhihu: [https://www.zhihu.com/people/zeng-shi-ping](https://www.zhihu.com/people/zeng-shi-ping)
 
 ## Teaching Experience
-- 2021.2-2021.7&ensp;&ensp; TA &ensp;&ensp; College physics
+- 2021.2-2021.6&ensp;&ensp; TA &ensp;&ensp; College physics
 - 2020.9-2021.1&ensp;&ensp; TA &ensp;&ensp; College physics experiments
 
 ## Awards
